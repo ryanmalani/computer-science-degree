@@ -101,7 +101,7 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Deep Learning for Self-Driving Cars 6.094](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLts9ZnoIwN9MJOXSFal2wFImRjfUhmYSP) | MIT | 9 Lectures | 2-3 hours/week | self-paced | CS fundamentals + intro to DL or ML
 [Modern Computer Vision CS198-126](https://www.youtube.com/watch?v=Q3fqoJ41g6U&list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5) | UC Berkeley | 22 Lectures | 4-5 hours/week | self-paced | CS fundamentals + intro to DL or ML
 [Reinforcement Learning CS234](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | Stanford | 15 Lectures | 2-3 hours/week | self-paced | CS fundamentals + intro to ML
-[Deep Multi-task and Meta Learning CS330](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) | Stanford | 17 Lectures | 4 hours/week | CS fundamentals + intro to DL
+[Deep Multi-task and Meta Learning CS330](https://www.youtube.com/watch?v=bkVCAk9Nsss&list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) | Stanford | 17 Lectures | 4 hours/week | self-paced | CS fundamentals + intro to DL
 
 #### Robotics
 
