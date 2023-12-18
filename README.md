@@ -1,12 +1,12 @@
 # Open Source Computer Science Courses from Top Universities in the US.
-A collection of open-source, free courses from top universities in the United States offered on YouTube to serve as a comprehensive computer science degree. 
+A collection of open-source, free courses from top universities in the United States offered on YouTube to serve as a comprehensive computer science degree. Become a self-taught computer scientist!
 
 # Contents
 - [Summary](#summary)
 - [Curriculum](#curriculum)
 
 # Summary
-The purpose of this is to serve as a meticulously curated list of open-source and accessible high quality courses in computer science, with lectures available on YouTube from world-renowned institutions such as MIT, Harvard, Stanford, and UC Berkeley. This repository is not aimed to provide the resources of a full course (although many of these courses are offered for free through Coursera and EdX on [Open Source Society University](https://github.com/ossu/computer-science/tree/master)); it is a thorough, comprehensive exploration of everything from computer science fundamentals and principles to advanced topics designed for those who aspire to gain a deep and holistic understanding of the field for free, at their own pace on YouTube.
+The purpose of this is to serve as a meticulously curated list of open-source and accessible high quality courses in computer science, with lectures available on YouTube from world-renowned institutions such as MIT, Harvard, Stanford, and UC Berkeley. This repository is not aimed to provide the resources of a full course (although many of these courses are offered for free through Coursera and EdX on [Open Source Society University](https://github.com/ossu/computer-science/tree/master)); it is a thorough, comprehensive exploration of everything from computer science fundamentals and principles to advanced topics designed for those who aspire to gain a deep and holistic understanding of the field for free, at their own pace on YouTube. Also, while this is intended to be from the university structured learning perspective, that style may not be for everyone. I also recommend checking out [freeCodeCamp](https://www.youtube.com/@freecodecamp) as they have some great videos as well. 
 
 ### Curriculum Structure:
 
@@ -26,7 +26,7 @@ The repository welcomes contributions from its community. Whether it’s suggest
 # Curriculum
 While the curriculum is designed to be done in order, you can model your learning based on your current educational background. Although I would still recommend starting from the beginning; the refreshers from these courses can't hurt. 
 
-### Computer Science Fundamentals
+## Computer Science Fundamentals
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -34,23 +34,26 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Intro to Computer Science 6.001](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 38 Micro-Lectures | 2-3 hours/week | self-paced | none
 [Programming Methodology CS106A](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852) | Stanford | 28 Lectures | 4-6 hours/week | self-paced | none
 
-### Computer Science Math Core Topics
+## Computer Science Math Core Topics
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Mathematics for Computer Science 6.042J](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) | MIT | 111 Micro-Lectures | 3-4 hours/week | self-paced | none
 [Discrete Mathematics Math 55](https://www.youtube.com/watch?v=fC8dWc9WDL8&list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) | UC Berkeley | 28 Lectures | 4-5 hours/week | self-paced | none
+[A Vision of Linear Algebra](https://www.youtube.com/watch?v=nTwRjQ4xqUc&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) | MIT | 8 Lectures | 1-2 hours/week | self-paced | none
 
-### Computer Science Core Topics
-
-Courses | School | Duration | Time Commitment | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-
-### Computer Science Advanced Topics
+## Computer Science Core Topics
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Advanced Algorithms COMPSCI 224](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) | Harvard | 25 Lectures | 4-6 hours/week | self-paced | CS Fundamentals Course + Discrete Mathematics minimum.
+[Introduction to Algorithms 6.006](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | MIT | 32 Lectures | 4-6 hours/week | self-paced | CS Fundamentals Course + Discrete Mathematics strongly recommended.
+
+
+## Computer Science Advanced Topics
+
+Courses | School | Duration | Time Commitment | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Advanced Algorithms COMPSCI 224](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) | Harvard | 25 Lectures | 4-6 hours/week | self-paced | CS Intro to Algorithms Course + Discrete Mathematics minimum.
 
 ### Specialities
 This section is for more specialized tracks in security, robotics, machine learning/artificial intelligence, and more.
@@ -77,4 +80,3 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) | YCombinator/Stanford | 21 Lectures | 3-5 hours/week | self-paced | none
-[A Vision of Linear Algebra](https://www.youtube.com/watch?v=nTwRjQ4xqUc&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) | MIT | 8 Lectures | 1-2 hours/week | self-paced | none
