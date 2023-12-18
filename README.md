@@ -6,7 +6,7 @@ A collection of open-source, free courses from top universities in the United St
 - [Curriculum](#curriculum)
 
 # Summary
-The purpose of this is to serve as a meticulously curated list of open-source and accessible high quality courses in computer science, with lectures available on YouTube from world-renowned institutions such as MIT, Harvard, Stanford, and UC Berkeley. This repository is not aimed to provide the resources of a full course (although many of these courses are offered for free through Coursera and EdX on [Open Source Society University](https://github.com/ossu/computer-science/tree/master)); it is a thorough, comprehensive exploration of everything from computer science fundamentals and principles to advanced topics designed for those who aspire to gain a deep and holistic understanding of the field for free, at their own pace on YouTube. Also, while this is intended to be from the university structured learning perspective, that style may not be for everyone. I also recommend checking out [freeCodeCamp](https://www.youtube.com/@freecodecamp) as they have some great videos as well. 
+The purpose of this is to serve as a meticulously curated list of open-source and accessible high quality courses in computer science, with lectures available on YouTube from world-renowned institutions such as MIT, Harvard, Stanford, and UC Berkeley. This repository is not aimed to provide the resources of a full course (although many of these courses are offered for free through Coursera and EdX on [Open Source Society University](https://github.com/ossu/computer-science/tree/master)); it is a thorough, comprehensive exploration of everything from computer science fundamentals and principles to advanced topics designed for those who aspire to gain a deep and holistic understanding of the field for free, at their own pace on YouTube. Also, while this is intended to be from the university structured learning perspective, that style may not be for everyone. I recommend checking out [freeCodeCamp](https://www.youtube.com/@freecodecamp) as they have some great videos, as well as reading and learning from [engineering blogs at top companies.](https://github.com/kilimchoi/engineering-blogs) 
 
 ### Curriculum Structure:
 
@@ -18,7 +18,7 @@ The purpose of this is to serve as a meticulously curated list of open-source an
 While self-paced, the program is designed to be completed in approximately two years with a commitment of around 20 hours per week. Learners can track their progress using [this spreadsheet](url), adapting their study schedule to personal commitments.
 
 ### Cost:
-The core material, sourced from YouTube lectures, is entirely free. Some courses may recommend textbooks or supplementary materials which may incur costs, but these are optional. The community is encouraged to also open PRs with open-source or freely available textbooks, but EbookFoundation also has a great selection of resources [here](https://github.com/EbookFoundation/free-programming-books) if that is your preferred learning style. 
+The core material, sourced from YouTube lectures, is entirely free. Some courses may recommend textbooks or supplementary materials which may incur costs, but these are optional. The community is encouraged to also open PRs with open-source or freely available textbooks, but EbookFoundation also has a great selection of resources [here](https://github.com/EbookFoundation/free-programming-books) if that is your preferred learning style.
 
 ### Contributing to this Project:
 The repository welcomes contributions from its community. Whether it’s suggesting additional resources, helping to refine existing content, or offering peer support, every contribution enriches the learning experience for all.
@@ -33,6 +33,10 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Intro to Computer Science CS50](https://www.youtube.com/watch?v=4zy0z5W0-w4&list=PLhQjrBD2T380Xnv_v683p6UjiKJZe13ki) | Harvard | 12 Lectures | 4-6 hours/week | self-paced | none
 [Intro to Computer Science 6.001](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1) | MIT | 38 Micro-Lectures | 2-3 hours/week | self-paced | none
 [Programming Methodology CS106A](https://www.youtube.com/watch?v=KkMDCCdjyW8&list=PL84A56BC7F4A1F852) | Stanford | 28 Lectures | 4-6 hours/week | self-paced | none
+[Computation Structures](https://www.youtube.com/watch?v=R0tFDXBZvKI&list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2) | MIT | 172 Micro-Lectures or [26 full-length Lectures](https://www.youtube.com/@silvinahanonowachman3310/videos) | 4-5 hours/week | self-paced | none
+[Introduction to Computer Networking CS144](https://www.youtube.com/watch?v=qAFI-2I7wPE&list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS) | Stanford | 24 Lectures | 1-2 hours/week | self-paced | none
+[Computer Organization & Systems CS107](https://www.youtube.com/watch?v=xuRkyNqqecc&list=PLoCMsyE1cvdWivlV-39KKsBKUX-4DvraN&index=1&t=0s) | Stanford | 15 Lectures | 2-3 hours/week | self-paced | none
+[Operating Systems and Systems Programming CS162](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLt6W3xmDDbDhmF7JFPAGb_pSRTGOfnkA0) | UC Berkeley | 27 Lectures | 4-6 hours/week | self-paced | none
 
 ## Computer Science Math Core Topics
 
@@ -41,19 +45,22 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Mathematics for Computer Science 6.042J](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) | MIT | 111 Micro-Lectures | 3-4 hours/week | self-paced | none
 [Discrete Mathematics Math 55](https://www.youtube.com/watch?v=fC8dWc9WDL8&list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) | UC Berkeley | 28 Lectures | 4-5 hours/week | self-paced | none
 [A Vision of Linear Algebra](https://www.youtube.com/watch?v=nTwRjQ4xqUc&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) | MIT | 8 Lectures | 1-2 hours/week | self-paced | none
+[Matrix Calculus for Machine Learning and Beyond 18.S096](https://www.youtube.com/watch?v=0YqjeqLhDDE&list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) | MIT | 17 Lectures | 1-3 hours/week | self-paced | none
 
 ## Computer Science Core Topics
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Algorithms 6.006](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | MIT | 32 Lectures | 4-6 hours/week | self-paced | CS Fundamentals Course + Discrete Mathematics strongly recommended.
-
+[Computer Architecture 18-447](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie-Mellon | 39 Lectures | 4-6 hours/week | self-paced | CS fundamentals strongly recommended. 
 
 ## Computer Science Advanced Topics
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Advanced Algorithms COMPSCI 224](https://www.youtube.com/watch?v=0JUN9aDxVmI&list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) | Harvard | 25 Lectures | 4-6 hours/week | self-paced | CS Intro to Algorithms Course + Discrete Mathematics minimum.
+[Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) | MIT | 20 Lectures | 2-4 hours/week | self-paced | CS Intro to systems + fundamentals courses required.
+[Performance Engineering of Software Systems 6.172](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf) | MIT | 23 Lectures | 4-5 hours/week | self-paced | CS Intro to systems + fundamentals courses required.
 
 ### Specialities
 This section is for more specialized tracks in security, robotics, machine learning/artificial intelligence, and more.
@@ -62,7 +69,8 @@ This section is for more specialized tracks in security, robotics, machine learn
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Deep Learning 6.S191](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | MIT | 63 Lectures | 6-7 hours/week | self-paced | none
+[Intro to Deep Learning 6.S191](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | MIT | 63 Lectures | 6-7 hours/week | self-paced | CS fundamentals
+[Machine Learning CS229](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) | Stanford | 19 Lectures | 2-4 hours/week | self-paced | CS fundamentals
 
 #### Robotics
 
@@ -70,10 +78,17 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Intro to Robotics](https://www.youtube.com/watch?v=e4jow5O3JT8&list=PLF8B1bJgOQK67xkgYz_Xtx0ShjcqfdXwE) | Princeton | 24 Lectures | 4-6 hours/week | self-paced | none
 
+#### Aerospace
+
+Courses | School | Duration | Time Commitment | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Fundamentals of Systems Engineering](https://www.youtube.com/watch?v=MOdNzHR_tck&list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx) | MIT | 12 Lectures | 2-3 hours/week | self-paced | none
+
 #### Cybersecurity
 
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
+[Computer Systems Security 6.858](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLBMO3ORTdwldCqlHVcbJSOa3GxLS6bpeE&index=3) | MIT | 26 Lectures | 3-4 hours/week | self-paced | CS fundamentals + cs systems fundamentals recommended. 
 
 ### Bonus Topics and Courses
 
