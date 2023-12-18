@@ -66,6 +66,7 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Computer Architecture 18-447](https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq) | Carnegie-Mellon | 39 Lectures | 4-6 hours/week | self-paced | CS fundamentals strongly recommended. 
 [Human-Computer Interaction CS547](https://www.youtube.com/watch?v=IX3C-C9Stws&list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD) | Stanford | 259 Lectures | 5-6 hours/week+ | self-paced | CS fundamentals strongly recommended. 
 [Introduction to Database Systems 15-445/645](https://www.youtube.com/watch?v=uikbtpVZS2s&list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) | Carnegie-Mellon | 25 Lectures | 4-5 hours/week | self-paced | CS fundamentals strongly recommended. 
+[Design and Analysis of Algorithms 6.046J](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) | MIT | 34 Lectures | 4-6 hours/week | self-paced | CS fundamentals, intro to algorithms strongly recommended.
 [Operating System Engineering 6.828](https://www.youtube.com/watch?v=kDRHsNauoxk&list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) | MIT | 12 Lectures found | 2-3 hours/week | self-paced | CS fundamentals strongly recommended. 
 [Database Systems 6.830/6.814](https://www.youtube.com/watch?v=F3XGUPll6Qs&list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK) | MIT | 14 Lectures found | 3-4 hours/week | self-paced | CS fundamentals strongly recommended. 
 
@@ -77,6 +78,7 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Algorithms for Big Data COMPSCI 229r](https://www.youtube.com/watch?v=s9xSfIw83tk&list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf) | Harvard | 25 Lectures | 4-5 hours/week | self-paced | CS Intro to Algorithms Course + Discrete Mathematics minimum.
 [Advanced Database Systems 15-721](https://www.youtube.com/watch?v=LWS8LEQAUVc&list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) | Carnegie-Mellon | 23 Lectures | 3-4 hours/week | self-paced | CS fundamentals + core required. 
 [Distributed Systems 6.824](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) | MIT | 20 Lectures | 2-4 hours/week | self-paced | CS Intro to systems + fundamentals courses required.
+[Distributed Computer Systems CS 436](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N) | UWaterloo | 24 Lectures | 4-6 hours/week | self-paced | CS fundamentals + systems/architecture courses required. 
 [Performance Engineering of Software Systems 6.172](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf) | MIT | 23 Lectures | 4-5 hours/week | self-paced | CS Intro to systems + fundamentals courses required.
 [Theory of Computation 18.404J](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) | MIT | 25 Lectures | 4-5 hours/week | self-paced | CS fundamentals + math core + CS core required. 
 
