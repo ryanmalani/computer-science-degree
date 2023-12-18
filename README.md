@@ -56,7 +56,7 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 [Single Variable Calculus 18.01](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1) | MIT | 35 Lectures | 4-6 hours/week | self-paced | none
 [Multivariable Calculus 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38) | MIT | 35 Lectures | 4-6 hours/week | self-paced | Single Variable Calculus
 [Multivariable Calculus Math 53](https://www.youtube.com/watch?v=aXxAxB5gJA4&list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) | UC Berkeley | 25 Lectures | 4-6 hours/week | self-paced | Single Variable Calculus
-[Multivariable Calculus](https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28) | Princeton | 4-6 hours/week | self-paced | Single Variable Calculus
+[Multivariable Calculus](https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28) | Princeton | 14 Lectures | 4-6 hours/week | self-paced | Single Variable Calculus
 
 ## Computer Science Core Topics
 
