@@ -45,11 +45,18 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Introduction to Probability for Computer Scientists CS109](https://www.youtube.com/watch?v=2MuDZIAzBMY&list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | Stanford | 29 Lectures | 4-5 hours/week | self-paced | none
+[Probability and Statistics 110](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | Harvard | 35 Lectures | 4-5 hours/week | self-paced | none
 [Mathematics for Computer Science 6.042J](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) | MIT | 111 Micro-Lectures | 3-4 hours/week | self-paced | none
 [Discrete Mathematics Math 55](https://www.youtube.com/watch?v=fC8dWc9WDL8&list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC) | UC Berkeley | 28 Lectures | 4-5 hours/week | self-paced | none
 [Discrete Mathematics and Probability Theory CS 70](https://www.youtube.com/watch?v=LaKt90H4p6Q&list=PLzAv_uHZw7dTI2e0F8-lxxOWV9zXMzwNE) | UC Berkeley | 28 Lectures | 4-5 hours/week | self-paced | none
 [A Vision of Linear Algebra](https://www.youtube.com/watch?v=nTwRjQ4xqUc&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) | MIT | 8 Lectures | 1-2 hours/week | self-paced | none
+[Introduction to Applied Linear Algebra](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) | Stanford | 54 Micro-Lectures | 3-4 hours/week | self-paced | none
+[Linear Algebra](https://www.youtube.com/watch?v=Ncu9Pks3AJQ&list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp) | Princeton | 15 Lectures | 2-3 hours/week | self-paced | none
 [Matrix Calculus for Machine Learning and Beyond 18.S096](https://www.youtube.com/watch?v=0YqjeqLhDDE&list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) | MIT | 17 Lectures | 1-3 hours/week | self-paced | none
+[Single Variable Calculus 18.01](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1) | MIT | 35 Lectures | 4-6 hours/week | self-paced | none
+[Multivariable Calculus 18.02](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38) | MIT | 35 Lectures | 4-6 hours/week | self-paced | Single Variable Calculus
+[Multivariable Calculus Math 53](https://www.youtube.com/watch?v=aXxAxB5gJA4&list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ) | UC Berkeley | 25 Lectures | 4-6 hours/week | self-paced | Single Variable Calculus
+[Multivariable Calculus](https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28) | Princeton | 4-6 hours/week | self-paced | Single Variable Calculus
 
 ## Computer Science Core Topics
 
@@ -125,3 +132,11 @@ Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 Courses | School | Duration | Time Commitment | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) | YCombinator/Stanford | 21 Lectures | 3-5 hours/week | self-paced | none
+[Fundamentals of Physics PHYS 200](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj) | Yale | 24 Lectures | 4-5 hours/week | self-paced | Calculus
+[Physics I: Classical Mechanics 8.01x](https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e) | MIT | 40 Lectures | 4-6 hours/week | self-paced | Calculus
+[Physics II: Electricity & Magnetism 8.02x](https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j) | MIT | 40 Lectures | 4-6 hours/week | self-paced | Calculus + Physics I
+[Physics III: Vibrations and Waves 8.03x](https://www.youtube.com/watch?v=sf3XlpPtBo0&list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89) | MIT | 24 Lectures | 3-4 hours/week | self-paced | Calculus + Physics I & II
+[Quantum Physics I 8.04](https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) | MIT | 115 Micro-Lectures | 4-6 hours/week | self-paced | Calculus + Physics
+[General Relativity 8.962](https://www.youtube.com/watch?v=iRVfaR3N5K4&list=PLUl4u3cNGP629n_3fX7HmKKgin_rqGzbx) | MIT | 23 Lectures | 3-5 hours/week | self-paced | Math + Physics
+[Atomic and Optical Physics I 8.421](https://www.youtube.com/watch?v=iwQ49oG-DO8&list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32) | MIT | 25 Lectures | 4-5 hours/week | self-paced | Math + Physics
+
